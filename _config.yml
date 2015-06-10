@@ -1,0 +1,27 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Alban Gaignard
+tagline:          'My personal weblog'
+description:      'PhD in Computer Science, CNRS engineer'
+url:              http://hyde.getpoole.com
+baseurl:          /
+
+author:
+  name:           'Alban Gaignard'
+  url:            
+
+paginate:         5
+paginate_path: "blog/page:num"
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/poole/hyde
