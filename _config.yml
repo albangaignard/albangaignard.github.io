@@ -8,7 +8,7 @@ relative_permalinks: true
 
 # Setup
 title:            Alban Gaignard
-tagline:          'My personal weblog'
+tagline:          'My personal web pages'
 description:      'PhD in Computer Science, CNRS engineer'
 url:              http://hyde.getpoole.com
 baseurl:          /

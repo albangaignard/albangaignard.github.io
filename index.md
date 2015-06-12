@@ -3,15 +3,12 @@ layout: default
 title: Home
 ---
 
-## Alban Gaignard - PhD in Computer Science - CNRS Engineer
-  * [CV (french)](http://sparks.i3s.unice.fr/_media/public:gaignard:albangaignard-cv2014.pdf)
-  * [LinkedIn profile](http://fr.linkedin.com/in/albangaignard/)
-  * [HAL, open access publication list](http://hal.archives-ouvertes.fr/Public/afficheRequetePubli.php?auteur_exp=A.,%20Gaignard%20;%20Alban,%20Gaignard&CB_auteur=oui&CB_titre=oui&CB_article=oui&CB_Resume_court=oui&CB_typdoc=oui&langue=Anglais&tri_exp=annee_publi&tri_exp2=typdoc&tri_exp3=date_publi&ordre_aff=TA&Fen=Aff&css=../css/VisuRubriqueEncadre.css) 
-  * [Google scholar profile](http://scholar.google.fr/citations?user=4ruSswgAAAAJ)
+<p align="center">
+<img src="public/media/profile-150.jpg">
+</p>
 
-## Contact
+Closely linked to **life science applications** (medical imaging, \*-omics data analysis), my research interests cover the fields of **knowledge engineering** (semantic web, linked data) and **distributed systems** (workflows, large scale computing infrastructures) to better i) query massive, distributed and heterogeneous datasets, as well as ii) produce few yet meaningfull data. I'm currently involved in the [CrEDIBLE](http://credible.i3s.unice.fr) research project. 
 
-Laboratoire [[http://www.i3s.unice.fr/|I3S]], UNSA-CNRS 2000, route des lucioles Les Algorithmes - bât. Euclide B BP.121, 06903 Sophia Antipolis - Cedex France
+Since september 2014, I coordinate the [SyMeTRIC](http://symetric.univ-nantes.fr) project. SyMeTRIC is a french regional project in **Systems Medicine**, funded by the Pays de la Loire region. SyMeTRIC aims at building a common Systems Medicine computing infrastructure to accelerate the discovery and validation of biomarkers in the fields of oncology, transplantation, and chronic cardiovascular diseases.
 
-* Email : alban.gaignard @ cnrs.fr
-* Web : [[http://www.i3s.unice.fr/~gaignard|http://www.i3s.unice.fr/~gaignard]] 
+[More details here ...](about)
