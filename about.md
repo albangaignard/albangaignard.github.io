@@ -3,7 +3,7 @@ layout: page
 title: About me
 ---
 
-[CV (french)](http://sparks.i3s.unice.fr/_media/public:gaignard:albangaignard-cv2014.pdf), [LinkedIn profile](http://fr.linkedin.com/in/albangaignard/), [Open access publication list](http://hal.archives-ouvertes.fr/Public/afficheRequetePubli.php?auteur_exp=A.,%20Gaignard%20;%20Alban,%20Gaignard&CB_auteur=oui&CB_titre=oui&CB_article=oui&CB_Resume_court=oui&CB_typdoc=oui&langue=Anglais&tri_exp=annee_publi&tri_exp2=typdoc&tri_exp3=date_publi&ordre_aff=TA&Fen=Aff&css=../css/VisuRubriqueEncadre.css), [Google scholar profile](http://scholar.google.fr/citations?user=4ruSswgAAAAJ).
+[CV (french)](../public/media/AlbanGaignard-cv2014.pdf), [LinkedIn profile](http://fr.linkedin.com/in/albangaignard/), [Open access publication list](http://hal.archives-ouvertes.fr/Public/afficheRequetePubli.php?auteur_exp=A.,%20Gaignard%20;%20Alban,%20Gaignard&CB_auteur=oui&CB_titre=oui&CB_article=oui&CB_Resume_court=oui&CB_typdoc=oui&langue=Anglais&tri_exp=annee_publi&tri_exp2=typdoc&tri_exp3=date_publi&ordre_aff=TA&Fen=Aff&css=../css/VisuRubriqueEncadre.css), [Google scholar profile](http://scholar.google.fr/citations?user=4ruSswgAAAAJ).
 
 ### Contact
 * CHU de Nantes, Direction des affaires médicales et de la Recherche, 
