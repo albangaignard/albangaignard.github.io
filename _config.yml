@@ -10,7 +10,7 @@ relative_permalinks: true
 title:            Alban Gaignard
 tagline:          'My personal web pages'
 description:      'PhD in Computer Science, CNRS engineer'
-url:              http://hyde.getpoole.com
+url:              http://albangaignard.github.io
 baseurl:          /
 
 author:
