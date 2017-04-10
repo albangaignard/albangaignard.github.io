@@ -43,6 +43,7 @@ Since september 2014, I coordinate the regional SyMeTRIC project. This project a
 * ANR [NeuroLOG](http://neurolog.i3s.unice.fr)
 
 ### PC member
+* CCGrid-Life'17
 * CCGrid-Life'15
 * CCGrid-Health'14
 * HealthGrid'12
@@ -63,6 +64,9 @@ Supervised by Johan Montagnat, obtained in march 2013.
 
 
 ### Teaching
+* 2016 : Introduction à l’algorithmique, Université de Nantes, travaux dirigés L1, 20h.
+* 2016 : Web Sémantique, Université de Nantes, travaux pratiques M1, 24h.
+* 2015 : Quelques enjeux informatiques en biologie, Université de Nantes, travaux dirigés M2, 1h.
 * 2009-2014 : Image processing introduction [course material](http://sparks.i3s.unice.fr/_media/public:gaignard:imagesio-2014.pdf), [skeleton source code](http://sparks.i3s.unice.fr/_media/public:gaignard:td-imagesio-2014-src.zip), [filled source code](http://sparks.i3s.unice.fr/_media/public:gaignard:correction-td-image-2014.zip)(*french*).
 * 2007 : Eclipse Modelling Framework : Polytech Engineering School, Sophia Antipolis (4h).
 [Slides](http://modalis.i3s.unice.fr/_media/gaignard:presentationcoursemf.pdf), [Printer friendly](http://modalis.i3s.unice.fr/_media/gaignard/supportcours.pdf), [Training](http://modalis.i3s.unice.fr/_media/gaignard/trainingemf.pdf), (*french*).
