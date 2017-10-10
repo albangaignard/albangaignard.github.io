@@ -2,6 +2,7 @@
 layout: page
 title: Publications
 ---
+
 * [2017] __A. Gaignard__, K. Belhajjame, H. Skaf-Molli. **[SHARP: Harmonizing cross-workflow Provenance](http://ceur-ws.org/Vol-1948/paper5.pdf)**, Research paper,  Sematic Web solutions for large-scale biomedical data analytics (SeWebMeDA '17), full day workshop at ESWC2017,  Portoroz, Slovenia. ([slides](https://fr.slideshare.net/alban_gaignard/sharp-harmonizing-crossworkflow-provenance))
 * [2017] __A. Gaignard__, K. Belhajjame, H. Skaf-Molli. **[SHARP: Harmonizing Galaxy and Taverna workflow provenance](http://ceur-ws.org/Vol-1948/paper7.pdf)**, Demo paper,  Sematic Web solutions for large-scale biomedical data analytics (SeWebMeDA '17), full day workshop at ESWC2017,  Portoroz, Slovenia. ([slides](https://fr.slideshare.net/alban_gaignard/sharp-harmonizing-galaxy-and-taverna-worflow-provenance))
 * [2017] S. Cohen-Boulakia, K. Belhajjame, O. Collin, J. Chopard, C. Froidevaux, __A. Gaignard__, K. Hinsen, P. Larmande, Y. Le Bras, F. Lemoine, F. Mareuil, H. Ménager, C. Pradal, C. Blanchet. **[Scientific workflows for computational reproducibility in the life sciences: Status, challenges and opportunities](http://www.sciencedirect.com/science/article/pii/S0167739X17300316)**, Future Generation Computing Systems. 
