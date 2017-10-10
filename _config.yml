@@ -9,7 +9,7 @@ title:            Alban Gaignard
 tagline:          'My personal web pages'
 description:      'PhD in Computer Science, CNRS engineer'
 url:              http://albangaignard.github.io
-baseurl:          /
+baseurl:          http://albangaignard.github.io/
 
 author:
   name:           'Alban Gaignard'
