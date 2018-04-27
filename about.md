@@ -3,7 +3,16 @@ layout: page
 title: About me
 ---
 
-[CV (french)](../public/media/AlbanGaignard-cv2014.pdf), [LinkedIn profile](http://fr.linkedin.com/in/albangaignard/), [Open access publication list](http://hal.archives-ouvertes.fr/Public/afficheRequetePubli.php?auteur_exp=A.,%20Gaignard%20;%20Alban,%20Gaignard&CB_auteur=oui&CB_titre=oui&CB_article=oui&CB_Resume_court=oui&CB_typdoc=oui&langue=Anglais&tri_exp=annee_publi&tri_exp2=typdoc&tri_exp3=date_publi&ordre_aff=TA&Fen=Aff&css=../css/VisuRubriqueEncadre.css), [Google scholar profile](http://scholar.google.fr/citations?user=4ruSswgAAAAJ).
+{% raw %}
+
+<a href="https://cv.archives-ouvertes.fr/alban-gaignard" target="hal.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://data.archives-ouvertes.fr/img/hal.png" style="width:1em;margin-right:.5em;" alt="HAL icon">HAL open archive profile</a>
+
+
+<a href="https://orcid.org/0000-0002-3597-8557" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0002-3597-8557</a>
+
+<a href="http://scholar.google.fr/citations?user=4ruSswgAAAAJ" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://static.wixstatic.com/media/e1484c_2b2b9f72fe614c478ba076e733697cfa~mv2.png" style="width:1em;margin-right:.5em;" alt="google scholar icon">google scholar</a>
+
+{% endraw %}
 
 ### Contact
 * Institut du Thorax (ITX), 8 quai Moncousu, 44000 Nantes
