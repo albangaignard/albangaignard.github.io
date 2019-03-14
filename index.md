@@ -4,7 +4,7 @@ title: Home
 ---
 
 <p align="center">
-<img src="public/media/profile-150.jpg">
+<img src="public/media/profile-2019.jpg">
 </p>
 
 My current objective is to leverage computer and data sciences to better understand biological systems and predict their behavior. 
