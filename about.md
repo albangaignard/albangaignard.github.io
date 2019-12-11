@@ -7,7 +7,6 @@ title: About me
 
 <a href="https://cv.archives-ouvertes.fr/alban-gaignard" target="hal.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://data.archives-ouvertes.fr/img/hal.png" style="width:1em;margin-right:.5em;" alt="HAL icon">HAL open archive profile</a>
 
-
 <a href="https://orcid.org/0000-0002-3597-8557" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0002-3597-8557</a>
 
 <a href="http://scholar.google.fr/citations?user=4ruSswgAAAAJ" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://static.wixstatic.com/media/e1484c_2b2b9f72fe614c478ba076e733697cfa~mv2.png" style="width:1em;margin-right:.5em;" alt="google scholar icon">google scholar</a>
