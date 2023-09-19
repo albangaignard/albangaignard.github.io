@@ -184,16 +184,10 @@ kramdown:
       start_line: 1
 
 # Includes & excludes
-include: ["_pages"]
-# exclude:
-#   - bin
-#   - Gemfile
-#   - Gemfile.lock
-#   - vendor
-# keep_files:
-#   - CNAME
-#   - .nojekyll
-#   - .git
+include:
+  - .htaccess
+  - _pages
+  - Gemfile
 
 # Plug-ins
 plugins:
