@@ -210,6 +210,14 @@ plugins:
   - jekyll-twitter-plugin
   - jemoji
 
+whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-scholar
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+
 # Sitemap settings
 defaults:
   - scope:
