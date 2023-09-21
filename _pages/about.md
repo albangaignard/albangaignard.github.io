@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 
 I obtained a Ph.D. in Computer Science from the University of Nice-Sophia Antipolis. My research interests cover knowledge graphs and distributed systems (workflows, provenance) in the context of life sciences. 
 
-From 2018 to 2020, I co-leaded the INEXMED integrative bioinformatics project funded by IFB (Institut Français de Bioinformatique) to design a FAIR data infrastructure bridging imaging and sequencing data. 
+From 2018 to 2020, I co-lead the INEXMED integrative bioinformatics project funded by IFB (Institut Français de Bioinformatique) to design a FAIR data infrastructure bridging imaging and sequencing data. 
 
 Since 2019 I co-lead the IFB interoperability working group and represents the french activities in this domain for the European ELIXIR infrastructure. 
 
