@@ -24,4 +24,4 @@ From 2018 to 2020, I co-lead the INEXMED integrative bioinformatics project fund
 
 Since 2019 I co-lead the IFB interoperability working group and represents the french activities in this domain for the European ELIXIR infrastructure. 
 
-Since 2020, I co-leads the R2P2 interdisciplinary project funded by CNRS, and aimed at better sharing and citing scientific workflows. 
+Since 2020, I co-lead the R2P2 interdisciplinary project funded by CNRS, and aimed at better sharing and citing scientific workflows. 
