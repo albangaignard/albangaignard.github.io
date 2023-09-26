@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: I'm [CNRS](https://www.cnrs.fr) researcher engineer working at [l’Institut du Thorax](https://umr1087.univ-nantes.fr) in Nantes, France. 
+subtitle: I'm [CNRS](https://www.cnrs.fr) researcher engineer working at [l’Institut du Thorax](https://umr1087.univ-nantes.fr) in Nantes. I'm a member of the BiRD bioinformatics facility, an active contributor to IFB (Institut Français de Bioinformatique), and Elixir (European infrastructure for bioinformatics). 
 
 profile:
   align: right
