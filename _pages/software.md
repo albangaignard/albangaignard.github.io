@@ -8,7 +8,7 @@ nav_order: 4
 ---
 
 ### FAIR-Checker
-todo
+FAIR-checker is a FAIR assement tool, partly funded by IFB.   
 
 ### Shema.org Observatory (demo)
 todo
