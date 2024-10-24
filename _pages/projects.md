@@ -4,7 +4,7 @@ title: projects
 permalink: /projects/
 description: 
 nav: true
-nav_order: 1
+nav_order: 2
 horizontal: true
 ---
 
@@ -29,6 +29,9 @@ This project aims at developing a scientific workflow exchange platform to incre
 
 This project aims at developing a national platform aimed at monitoring and studying antibio-resistance genes. 
 
+
+# Passed projects
+
 ### CNRS 80'Prime R2P2 
 **2019-2023**
 
@@ -37,9 +40,7 @@ This project, in collaboration between the Institut du Thorax and the LISN labs 
 ### ANR DeKaLog ()
 
 ### CominLabs MikroLog ()
+**2018-2021**
 
-# Passed projects
-
-### IFB 
-
-### Elixir 
+### IFB InexMed  
+**2018-2021**

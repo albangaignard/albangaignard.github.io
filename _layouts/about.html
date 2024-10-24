@@ -53,6 +53,11 @@ layout: default
     {%- include selected_papers.html %}
     {%- endif %}
 
+    <!-- Co-supervision -->
+    {%- if page.cosupervision %}
+    {%- include cosupervision.md %}
+    {%- endif %}
+
     <!-- Social -->
     {%- if page.social %}
     <div class="social">
