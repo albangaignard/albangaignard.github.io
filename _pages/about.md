@@ -20,8 +20,6 @@ social: true  # includes social icons at the bottom of the page
 
 I obtained a Ph.D. in Computer Science from the University of Nice-Sophia Antipolis. My research interests cover knowledge graphs and distributed systems (workflows, provenance) in the context of life sciences. 
 
-From 2018 to 2020, I co-lead the INEXMED integrative bioinformatics project funded by IFB (Institut Français de Bioinformatique) to design a FAIR data infrastructure bridging imaging and sequencing data. 
+I'm involved in several national and international projects in the context of biomedical data integration and sharing such as the PEPR Santé-numérique (ShareFAIR and Neurovasc programmes), the PPR ABRomics, and the ANR MeKaNo.
 
-Since 2019 I co-lead the IFB interoperability working group and represents the french activities in this domain for the European ELIXIR infrastructure. 
-
-Since 2020, I co-lead the R2P2 interdisciplinary project funded by CNRS, and aimed at better sharing and citing scientific workflows. 
+I co-lead the IFB "interoperability" and "health" working groups and represents the french activities in these domains for the European ELIXIR infrastructure. 
